@@ -1,0 +1,15 @@
+.title {
+    text-align: center;
+    color: burlywood;
+    font-size: 100px;
+    background-color: #fff;
+    width: 400px;
+    height: 140px;
+    border-radius: 50px;
+    transition: 1s;
+}
+
+.title:hover {
+    color: brown;
+    transition: 1s;
+}

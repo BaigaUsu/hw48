@@ -1,0 +1,54 @@
+.list li:nth-child(1) {
+    color: #fff;
+    transition: 0.5s;
+}
+
+.list li:nth-child(1):hover{
+    color: #FF6347;
+    transition: 0.5s;
+    transform: scale(1.2);
+}
+
+.list li:nth-child(2) {
+    color: #ADD8E6;
+    transition: 0.5s;
+}
+
+.list li:nth-child(2):hover{
+    color: #32CD32;
+    transition: 0.5s;
+    transform: scale(1.2);
+}
+
+.list li:nth-child(3) {
+    color: #FFD700;
+    transition: 0.5s;
+}
+
+.list li:nth-child(3):hover{
+    color: #9370DB;
+    transition: 0.5s;
+    transform: scale(1.2);
+}
+
+.list li:nth-child(4) {
+    color: #FFA07A;
+    transition: 0.5s;
+}
+
+.list li:nth-child(4):hover{
+    color: #00FFFF;
+    transition: 0.5s;
+    transform: scale(1.2);
+}
+
+.list li:nth-child(5) {
+    color: #FF69B4;
+    transition: 0.5s;
+}
+
+.list li:nth-child(5):hover{
+    color: #7FFFD4;
+    transition: 0.5s;
+    transform: scale(1.2);
+}
